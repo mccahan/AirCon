@@ -49,6 +49,9 @@ SECRET_MAP = {
         b'0\x07\xe9\x04a\xa6e\xc4\x1c\x08+"\r\x84w\x91\x8f\xa8)\x98',
     'hismart-us':
         b'\xd6+\x1f\xb0b\t\x19G\x87\x8c\xaak\xd0\xf8y\xf5\x933\xafp',
+    'simpleconnect-us':
+        b'@Fx\xe9\xd7@{\xa7\xf8\x18<\x9d[\xc3\x90\xac\x9f\xe1i\x03',
+
 }
 SECRET_ID_MAP = {
     'haxxair': 'HAXXAIR',
@@ -62,6 +65,7 @@ SECRET_ID_MAP = {
     'hisense-us': 'APP1',
     'hismart-eu': 'Hismart',
     'hismart-us': 'App1',
+    'simpleconnect-us': 'sc-android-field',
 }
 SECRET_ID_EXTRA_MAP = {
     'denali-us': 'iA',
